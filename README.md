@@ -17,7 +17,7 @@ Four molecules share one formula, C₄H₆, but arrange their bonds differently:
 ## Objective
 
 To test whether DFT and CCSD(T) reproduce the experimental enthalpies of
-formation from ATcT. The comparison shows how much each method deviates —
+formation from ATcT. The comparison shows how much each method deviates 
 and whether it can be trusted.
 
 ## Target result
