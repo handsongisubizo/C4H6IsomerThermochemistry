@@ -11,18 +11,6 @@ How well do DFT and CCSD(T) match experiment? Tested on the four C₄H₆ isomer
   <i>The four C₄H₆ isomers, optimized at B3LYP-D4/def2-TZVP. Green = double bond, orange = triple bond.</i>
 </p>
 
-
-## Why this system
-
-Four molecules share one formula, C₄H₆, but arrange their bonds differently:
-
-| Isomer | Bond arrangement |
-|---|---|
-| 1,3-Butadiene | two double bonds, separated |
-| 1,2-Butadiene | two double bonds, side by side |
-| 1-Butyne | one triple bond, at the end |
-| 2-Butyne | one triple bond, in the middle |
-
 ## Objective
 
 To test whether DFT and CCSD(T) reproduce the experimental enthalpies of
