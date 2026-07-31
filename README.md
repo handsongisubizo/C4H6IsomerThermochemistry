@@ -4,14 +4,12 @@ How well do DFT and CCSD(T) match experiment? Tested on the four C₄H₆ isomer
 **1,3-butadiene, 1,2-butadiene, 1-butyne, and 2-butyne**.
 
 <p align="center">
-  <img src="figures/c4h6-isomers-optimized-structures.png" width="850"
-       alt="Optimized geometries of the four C4H6 isomers">
+  <img src="c4h6-isomers-optimized-structures.png" width="850" alt="Optimized geometries of the four C4H6 isomers">
 </p>
 
 <p align="center">
   <i>Optimized geometries at B3LYP-D4/def2-TZVP. Green = double bond, orange = triple bond.</i>
 </p>
-
 
 ## Why this system
 
