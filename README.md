@@ -13,9 +13,7 @@ How well do DFT and CCSD(T) match experiment? Tested on the four C₄H₆ isomer
 
 ## Objective
 
-To test whether DFT and CCSD(T) reproduce the experimental enthalpies of
-formation from ATcT. The comparison shows how much each method deviates 
-and whether it can be trusted.
+To test whether DFT and CCSD(T) reproduce measured enthalpies of formation. Reference values come from ATcT (Active Thermochemical Tables), built entirely from experimental data. The comparison shows how much each method deviates and whether it can be trusted.
 
 ## Target result
 
