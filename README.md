@@ -42,7 +42,13 @@ To test whether DFT and CCSD(T) reproduce measured enthalpies of formation. Refe
 
 
 
+## Conclusion
 
+Both methods put the four isomers in the same order, and it matches experiment.
+
+Where they differ is accuracy. DFT is off by 5 to 10 kJ/mol. CCSD(T) is off by about 1.
+
+The only thing that changed between them is the electronic energy.
 
 
 
