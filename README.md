@@ -54,7 +54,7 @@ Both methods put the four isomers in the same order, and that order matches expe
 | Isomer | Geometry + frequencies (DFT) | Single point (CCSD(T)) |
 |---|---|---|
 | 1,3-Butadiene | [butadiene13.inp](butadiene13.inp) | [butadiene13ccsd.inp](butadiene13ccsd.inp) |
-| 1,2-Butadiene | [butadiene12.inp](butadiene12.inp) | [butadiene12ccsd.inp](butediene12ccsd.inp) |
+| 1,2-Butadiene | [butadiene12.inp](butadiene12.inp) | [butadiene12ccsd.inp](butadiene12ccsd.inp) |
 | 1-Butyne | [butyne1.inp](butyne1.inp) | [butyne1ccsd.inp](butyne1ccsd.inp) |
 | 2-Butyne | [butyne2.inp](butyne2.inp) | [butyne2ccsd.inp](butyne2ccsd.inp) |
 
@@ -66,7 +66,7 @@ Both methods put the four isomers in the same order, and that order matches expe
 | Isomer | DFT | CCSD(T) |
 |---|---|---|
 | 1,3-Butadiene | [butadiene13.out](butadiene13.out) | [butadiene13ccsd.out](butadiene13ccsd.out) |
-| 1,2-Butadiene | [butadiene12.out](butediene12.out) | [butadiene12ccsd.out](butediene12ccsd.out) |
+| 1,2-Butadiene | [butadiene12.out](butadiene12.out) | [butadiene12ccsd.out](butadiene12ccsd.out) |
 | 1-Butyne | [butyne1.out](butyne1.out) | [butyne1ccsd.out](butyne1ccsd.out) |
 | 2-Butyne | [butyne2.out](butyne2.out) | [butyne2ccsd.out](butyne2ccsd.out) |
 
