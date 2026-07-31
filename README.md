@@ -36,7 +36,7 @@ To test whether DFT and CCSD(T) reproduce measured enthalpies of formation. Refe
 </p>
 
 <p align="center">
-  <i>The green CCSD(T) bars sit almost on top of the black experimental bars. The purple DFT bars stray by 5 to 10 kJ/mol.</i>
+<i>CCSD(T) matches experiment closely; DFT deviates by 5 to 10 kJ/mol.</i>
 </p>
 
 
