@@ -19,20 +19,6 @@ To test whether DFT and CCSD(T) reproduce measured enthalpies of formation. Refe
 
 ## Results
 
-One table, three methods, side by side:
-
-| Isomer | DFT | CCSD(T) | Experiment (ATcT) | Error DFT | Error CCSD(T) |
-|---|---|---|---|---|---|
-| 1,3-Butadiene | 0.00 | 0.00 | 0.00 ± 0.29 | 0.00 | 0.00 |
-| 2-Butyne | 40.72 | 35.72 | 35.46 ± 0.45 | +5.26 | +0.26 |
-| 1,2-Butadiene | 45.23 | 50.49 | 51.40 ± 0.42 | −6.17 | −0.91 |
-| 1-Butyne | 66.05 | 54.47 | 55.68 ± 0.56 | +10.37 | −1.21 |
-
-*Relative enthalpies, kJ/mol, 298.15 K, gas phase. Experimental values from ATcT v1.220, relative to 1,3-butadiene (absolute ΔfH°: 111.15, 146.61, 162.55, 166.83 kJ/mol).*
-
-
-
-
 
 **Comparison of calculated versus experimental relative enthalpies for C₄H₆ isomers, in kJ/mol**
 
@@ -42,28 +28,6 @@ One table, three methods, side by side:
 | 2-Butyne | 40.72 | 35.72 | 35.46 ± 0.45 | +5.26 | +0.26 |
 | 1,2-Butadiene | 45.23 | 50.49 | 51.40 ± 0.42 | −6.17 | −0.91 |
 | 1-Butyne | 66.05 | 54.47 | 55.68 ± 0.56 | +10.37 | −1.21 |
-
-
-
-
-
-One table, three methods, side by side:
-
-| Isomer | DFT | CCSD(T) | Experiment (ATcT) | Error DFT | Error CCSD(T) |
-|---|---|---|---|---|---|
-| 1,3-Butadiene | | | 0.00 ± 0.29 | | |
-| 2-Butyne | | | 35.46 ± 0.45 | | |
-| 1,2-Butadiene | | | 51.40 ± 0.42 | | |
-| 1-Butyne | | | 55.68 ± 0.56 | | |
-
-*Relative enthalpies, kJ/mol, 298.15 K, gas phase. Experimental values from
-ATcT v1.220, relative to 1,3-butadiene (absolute ΔfH°: 111.15, 146.61,
-162.55, 166.83 kJ/mol). DFT and CCSD(T) columns will be filled from my
-calculations.*
-
-Plus one figure: a bar chart of all three methods per isomer, showing
-whether they agree on the ordering and how closely each tracks experiment.
-
 
 
 
