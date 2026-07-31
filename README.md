@@ -8,8 +8,9 @@ How well do DFT and CCSD(T) match experiment? Tested on the four C₄H₆ isomer
 </p>
 
 <p align="center">
-  <i>Optimized geometries at B3LYP-D4/def2-TZVP. Green = double bond, orange = triple bond.</i>
+  <i>The four C₄H₆ isomers, optimized at B3LYP-D4/def2-TZVP. Green = double bond, orange = triple bond.</i>
 </p>
+
 
 ## Why this system
 
